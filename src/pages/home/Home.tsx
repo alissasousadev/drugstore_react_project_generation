@@ -17,7 +17,7 @@ function Home() {
           <div className="flex flex-col gap-4 items-center justify-center py-4">
 
             {/* Título principal */}
-            <h2 className="font-caveat text-[96px] leading-[100%]">
+            <h2 className="text-5xl font-bold">
 
               FarmaGen
 
