@@ -9,7 +9,7 @@ function Footer() {
     return (
 
         // Container principal do Footer
-        <div className="flex justify-center bg-purple-800 text-white">
+        <div className="flex justify-center bg-[#BB2ED7] text-white">
 
             {/* Container interno */}
             <div className="container flex flex-col items-center py-4">

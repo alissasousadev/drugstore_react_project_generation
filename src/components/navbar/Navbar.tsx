@@ -5,7 +5,7 @@ function Navbar() {
 
     return (
         // Container principal da Navbar
-        <div className="w-full flex justify-center py-4 bg-purple-800 text-white">
+        <div className="w-full flex justify-center py-4 bg-[#BB2ED7] text-white">
             <div className="container flex justify-between text-lg">
 
                 {/* Nome do sistema */}

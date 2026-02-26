@@ -7,7 +7,7 @@ function Home() {
     <>
 
       {/* Seção principal */}
-      <div className="bg-purple-800 flex justify-center">
+      <div className="bg-[#BB2ED7] flex justify-center">
 
         {/* Container principal */}
         <div className="container grid grid-cols-2 text-white">
