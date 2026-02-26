@@ -56,7 +56,7 @@
 
 <h2>Tecnologias Utilizadas</h2>
 
-<div align="center>
+<div align="center">
 
 | Tecnologia | Descrição |
 |-----------|----------|
